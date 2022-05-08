@@ -21,7 +21,7 @@ Controls: <br />
 -Movement: A/S Keys <br />
 -Attack: Enter <br />
 -Jump: Space <br />
--Dash: Left Control (Was originally Left Shift, but ran into Sticky Keys activating if attempted to be used too many times) <br />
+-Dash: Left Control *(Was originally Left Shift, but ran into Sticky Keys activating if attempted to be used too many times)* <br />
 
 
 Cheats: <br />
