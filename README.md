@@ -25,7 +25,7 @@ Controls: <br />
 
 
 Cheats: <br />
--List any cheats implemented here <br />
+*-List any cheats implemented here* <br />
 
 
 Final Notes: <br />
