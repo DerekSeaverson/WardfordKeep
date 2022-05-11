@@ -40,3 +40,4 @@ Incomplete Ideas: <br />
 -Better attack registration delay/hit on enemies to match with animation (in progress) <br />
 -More detailed background tilemaps (in progress) <br />
 -Add blocking and health gaining functions for player (in progress) <br />
+-Redo attack animations to include precise hitBoxes throughout the animation (in progress) <br />
