@@ -14,7 +14,6 @@ Sounds Licensing: <br />
 -https://freesound.org/people/cribbler/sounds/381859/ <br />
 -https://freesound.org/people/SoundFlakes/sounds/492511/ <br />
 -https://opengameart.org/content/heroic-demise-updated-version <br />
--https://opengameart.org/content/heroic-demise-updated-version <br />
 -https://opengameart.org/content/game-over-8 <br />
 -https://freesound.org/people/nekoninja/sounds/370203/ <br />
 
