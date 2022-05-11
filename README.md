@@ -17,7 +17,7 @@ Sounds Licensing: <br />
 -https://opengameart.org/content/game-over-8 <br />
 -https://freesound.org/people/nekoninja/sounds/370203/ <br />
 
-Special Thanks:
+Special Thanks: <br />
 -https://www.youtube.com/c/Brackeys <br />
 *Has multiple videos explaining some smaller concepts when it comes to 2D programming that I learned and transferred into my gaem and expanded on those ideas* <br />
 
