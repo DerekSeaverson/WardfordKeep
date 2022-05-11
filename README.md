@@ -45,4 +45,5 @@ Incomplete Ideas: <br />
 -More detailed background tilemaps (in progress) <br />
 -Add blocking and health gaining functions for player (in progress) <br />
 -Redo attack animations to include precise hitBoxes throughout the animation (in progress) <br />
--Adjustments/redo of animation triggers foir player/enemies to prduce much more fluent movement/animations <br />
+-Adjustments/redo of animation triggers foir player/enemies to prduce much more fluent movement/animations (in progress) <br />
+-Adjust movement for enemies to be able to scale stairs properly instead of getting stuck (in progress) <br />
