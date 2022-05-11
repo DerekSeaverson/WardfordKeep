@@ -45,3 +45,4 @@ Incomplete Ideas: <br />
 -More detailed background tilemaps (in progress) <br />
 -Add blocking and health gaining functions for player (in progress) <br />
 -Redo attack animations to include precise hitBoxes throughout the animation (in progress) <br />
+-Adjustments/redo of animation triggers foir player/enemies to prduce much more fluent movement/animations <br />
