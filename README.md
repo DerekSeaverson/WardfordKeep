@@ -37,7 +37,7 @@ Final Notes: <br />
 
 *Below is a list of functions in the works "(in progress)" that haven't been fully implemented or ideas "(idea)" that I intend to start working on soon to implement into the game to make it better overall* <br />
 
-Incomplete Ideas: <br />
+Incomplete/In Progress Ideas: <br />
 -Better movement around map, such as stairs and collision with dying enemies (in progress) <br />
 -Traps such as spikes/blow dart arrows around map to make difficulty scale as you progress (idea) <br />
 -As game becomes larger, possible save states based on room/health etc (idea) <br />
