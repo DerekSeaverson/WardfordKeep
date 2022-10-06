@@ -1,7 +1,5 @@
 This a README for Wardford Keep Game submission for ITCS-4231 Final Project Submission. Below is a list of all the links all the audio and visual assets found online and used within the game. At the bottom consists of the controls within the game. There may also be some cheat codes to better test the game. Feel free to use those freely if they are listed. <br />
 
-*For this submission, I accidentally mixed up the requirements with the Capstone course (ITCS-4232) as I am enrolled in both, and read them as I could choose between 2D and 3D as long as it was in Unity. I realized that it was required to be in 3D 2 weeks before submission as I re-read over the requirements to see if there was anything I was missing. I decided to continue finishing this project rather than start a 3D game with only 2 weeks to work on it. I hope you can accept this submission, and I apologize for my mistake in this matter.* <br />
-
 Visual Licensing: <br />
 -https://assetstore.unity.com/packages/2d/characters/hero-knight-2-168019 <br />
 -https://assetstore.unity.com/packages/2d/characters/hero-nad-opponents-animation-140776 <br />
