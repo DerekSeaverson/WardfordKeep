@@ -37,12 +37,12 @@ Final Notes: <br />
 *Below is a list of functions in the works "(in progress)" that haven't been fully implemented or ideas "(idea)" that I intend to start working on soon to implement into the game to make it better overall* <br />
 
 Incomplete/In Progress Ideas: <br />
--Better movement around map, such as stairs and collision with dying enemies (in progress) <br />
+-Better movement around map, such as stairs and collision with dying enemies (idea) <br />
 -Traps such as spikes/blow dart arrows around map to make difficulty scale as you progress (idea) <br />
 -As game becomes larger, possible save states based on room/health etc (idea) <br />
--Better attack registration delay/hit on enemies to match with animation (in progress) <br />
--More detailed background tilemaps (in progress) <br />
--Add blocking and health gaining functions for player (in progress) <br />
--Redo attack animations to include precise hitBoxes throughout the animation (in progress) <br />
--Adjustments/redo of animation triggers foir player/enemies to prduce much more fluent movement/animations (in progress) <br />
--Adjust movement for enemies to be able to scale stairs properly instead of getting stuck (in progress) <br />
+-Better attack registration delay/hit on enemies to match with animation (idea) <br />
+-More detailed background tilemaps (idea) <br />
+-Add blocking and health gaining functions for player (idea) <br />
+-Redo attack animations to include precise hitBoxes throughout the animation (idea) <br />
+-Adjustments/redo of animation triggers foir player/enemies to prduce much more fluent movement/animations (idea) <br />
+-Adjust movement for enemies to be able to scale stairs properly instead of getting stuck (idea) <br />
